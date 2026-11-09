@@ -1,3 +1,48 @@
+# PlanDay – Pengelolaan Jadwal Harian Mahasiswa
+
+## Deskripsi
+**PlanDay** adalah aplikasi web pengelolaan jadwal harian mahasiswa yang dirancang untuk membantu mahasiswa mengatur aktivitas, menyusun agenda, dan melihat kegiatan sehari-hari secara lebih terstruktur.
+
+Aplikasi ini dibuat sebagai pemenuhan Ujian Tengah Semester (UTS) mata kuliah Pemrograman Berbasis Web.
+
+## Teknologi yang Digunakan
+- PHP 8.3
+- Laravel 11
+- Blade Templating Engine
+- HTML5
+- CSS3
+- JavaScript
+
+## Fitur Utama
+1. **Login** – Simulasi login menggunakan username.
+2. **Dashboard** – Menampilkan sapaan dan ringkasan aktivitas mahasiswa.
+3. **Pengelolaan Jadwal** – Menampilkan daftar kegiatan harian mahasiswa.
+4. **Profile** – Menampilkan informasi profil berdasarkan username yang dikirimkan.
+
+## Implementasi Teknis
+- Menggunakan arsitektur MVC (Model-View-Controller).
+- Routing dikelola melalui `routes/web.php`.
+- Pemrosesan data dilakukan melalui `PageController.php`.
+- Menggunakan Blade Layout dan Blade Components.
+- Mengimplementasikan `@extends`, `@section`, `@yield`, `@include`, dan `x-component`.
+- Mengirimkan data username melalui Request Parameter.
+- Menampilkan data kegiatan menggunakan array dan perulangan `@foreach`.
+- Menggunakan CSS responsif untuk menyesuaikan tampilan pada berbagai ukuran layar.
+
+## Struktur Halaman
+- Login
+- Dashboard
+- Pengelolaan
+- Profile
+
+## Screenshot Aplikasi
+
+
+## Identitas
+- Mata Kuliah: Pemrograman Berbasis Web
+- Nama Aplikasi: PlanDay
+- Repository: [UTS_PWEB_252410102039](https://github.com/adisza0/UTS_PWEB_252410102039)
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
