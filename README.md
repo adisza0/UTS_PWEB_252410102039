@@ -36,7 +36,7 @@ Aplikasi ini dibuat sebagai pemenuhan Ujian Tengah Semester (UTS) mata kuliah Pe
 - Profile
 
 ## Screenshot Aplikasi
-
+![Dashboard PlanDay](screenshots/dashboard.png)
 
 ## Identitas
 - Mata Kuliah: Pemrograman Berbasis Web
